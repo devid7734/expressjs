@@ -1,0 +1,25 @@
+{
+  "name": "myapp",
+  "version": "1.0.0",
+  "description": "node3",
+  "main": "index.js",
+  "scripts": {
+    "test": "npm install express --save"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/devid7734/expressjs.git"
+  },
+  "keywords": [
+    "express"
+  ],
+  "author": "devid",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/devid7734/expressjs/issues"
+  },
+  "homepage": "https://github.com/devid7734/expressjs#readme",
+  "dependencies": {
+    "express": "^4.18.2"
+  }
+}
